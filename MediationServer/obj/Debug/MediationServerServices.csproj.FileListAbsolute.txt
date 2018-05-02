@@ -1,0 +1,56 @@
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\bin\Debug\Database.mdf
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\bin\Debug\Database_log.ldf
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\bin\Debug\MediationServer.dll.config
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\bin\Debug\MediationServer.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\bin\Debug\MediationServer.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\bin\Debug\DatabaseLibrary.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\bin\Debug\objectClassLibrary.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\bin\Debug\DatabaseLibrary.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\bin\Debug\objectClassLibrary.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\obj\Debug\MediationServerServices.csprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\obj\Debug\MediationServer.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\MediationServer\obj\Debug\MediationServer.pdb
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Debug\Database.mdf
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Debug\Database_log.ldf
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Debug\DatabaseLibrary.dll
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Debug\objectClassLibrary.dll
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Debug\DatabaseLibrary.pdb
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Debug\objectClassLibrary.pdb
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Liran\Desktop\ClientApp\MediationServer\obj\Debug\MediationServerServices.csprojResolveAssemblyReference.cache
+C:\Users\Liran\Desktop\ClientApp\MediationServer\obj\Debug\MediationServer.dll
+C:\Users\Liran\Desktop\ClientApp\MediationServer\obj\Debug\MediationServer.pdb
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Debug\MediationServer.dll.config
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Debug\MediationServer.dll
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Debug\MediationServer.pdb
+D:\ClientApp\MediationServer\bin\Debug\Database.mdf
+D:\ClientApp\MediationServer\bin\Debug\Database_log.ldf
+D:\ClientApp\MediationServer\bin\Debug\MediationServer.dll.config
+D:\ClientApp\MediationServer\bin\Debug\MediationServer.dll
+D:\ClientApp\MediationServer\bin\Debug\MediationServer.pdb
+D:\ClientApp\MediationServer\bin\Debug\DatabaseLibrary.dll
+D:\ClientApp\MediationServer\bin\Debug\Newtonsoft.Json.dll
+D:\ClientApp\MediationServer\bin\Debug\objectClassLibrary.dll
+D:\ClientApp\MediationServer\bin\Debug\DatabaseLibrary.pdb
+D:\ClientApp\MediationServer\bin\Debug\objectClassLibrary.pdb
+D:\ClientApp\MediationServer\bin\Debug\Newtonsoft.Json.xml
+D:\ClientApp\MediationServer\obj\Debug\MediationServerServices.csprojResolveAssemblyReference.cache
+D:\ClientApp\MediationServer\obj\Debug\MediationServer.dll
+D:\ClientApp\MediationServer\obj\Debug\MediationServer.pdb
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\bin\Debug\Database.mdf
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\bin\Debug\Database_log.ldf
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\bin\Debug\MediationServer.dll.config
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\bin\Debug\MediationServer.dll
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\bin\Debug\MediationServer.pdb
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\bin\Debug\DatabaseLibrary.dll
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\bin\Debug\objectClassLibrary.dll
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\bin\Debug\DatabaseLibrary.pdb
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\bin\Debug\objectClassLibrary.pdb
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\obj\Debug\MediationServerServices.csprojResolveAssemblyReference.cache
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\obj\Debug\MediationServer.dll
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\MediationServer\obj\Debug\MediationServer.pdb

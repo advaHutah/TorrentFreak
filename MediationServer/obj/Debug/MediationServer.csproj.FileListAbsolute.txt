@@ -1,0 +1,1 @@
+C:\Users\win10\documents\visual studio 2015\Projects\ClientApp\MediationServer\obj\Debug\MediationServer.csprojResolveAssemblyReference.cache

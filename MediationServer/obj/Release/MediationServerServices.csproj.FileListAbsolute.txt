@@ -1,0 +1,14 @@
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Release\Database.mdf
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Release\Database_log.ldf
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Release\MediationServer.dll.config
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Release\MediationServer.dll
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Release\MediationServer.pdb
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Release\DatabaseLibrary.dll
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Release\Newtonsoft.Json.dll
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Release\objectClassLibrary.dll
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Release\DatabaseLibrary.pdb
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Release\objectClassLibrary.pdb
+C:\Users\Liran\Desktop\ClientApp\MediationServer\bin\Release\Newtonsoft.Json.xml
+C:\Users\Liran\Desktop\ClientApp\MediationServer\obj\Release\MediationServerServices.csprojResolveAssemblyReference.cache
+C:\Users\Liran\Desktop\ClientApp\MediationServer\obj\Release\MediationServer.dll
+C:\Users\Liran\Desktop\ClientApp\MediationServer\obj\Release\MediationServer.pdb

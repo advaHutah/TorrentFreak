@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="TorrentFreakDBLink">
+  <DataContextMoniker Name="/TorrentFreakDBLinkDataContext" />
+  <nestedChildShapes>
+    <classShape Id="854042f6-457c-4f4c-840a-03bb82329a66" absoluteBounds="4.375, 1.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/TorrentFreakDBLinkDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4b613b59-1b43-4ca2-9966-7b21de8c8839" absoluteBounds="4.39, 2.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a1f85a55-ba1d-4096-9e18-35999cd3cc30" absoluteBounds="1.5, 1.375, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/TorrentFreakDBLinkDataContext/File" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9f732ecc-3ffd-4d50-99d8-2e27bb3ab9bb" absoluteBounds="1.5150000000000001, 1.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

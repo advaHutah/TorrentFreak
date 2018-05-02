@@ -1,0 +1,10 @@
+C:\Users\Liran\Desktop\ClientApp\DatabaseLibrary\bin\Release\Database.mdf
+C:\Users\Liran\Desktop\ClientApp\DatabaseLibrary\bin\Release\Database_log.ldf
+C:\Users\Liran\Desktop\ClientApp\DatabaseLibrary\bin\Release\DatabaseLibrary.dll.config
+C:\Users\Liran\Desktop\ClientApp\DatabaseLibrary\bin\Release\DatabaseLibrary.dll
+C:\Users\Liran\Desktop\ClientApp\DatabaseLibrary\bin\Release\DatabaseLibrary.pdb
+C:\Users\Liran\Desktop\ClientApp\DatabaseLibrary\bin\Release\objectClassLibrary.dll
+C:\Users\Liran\Desktop\ClientApp\DatabaseLibrary\bin\Release\objectClassLibrary.pdb
+C:\Users\Liran\Desktop\ClientApp\DatabaseLibrary\obj\Release\DatabaseLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Liran\Desktop\ClientApp\DatabaseLibrary\obj\Release\DatabaseLibrary.dll
+C:\Users\Liran\Desktop\ClientApp\DatabaseLibrary\obj\Release\DatabaseLibrary.pdb
