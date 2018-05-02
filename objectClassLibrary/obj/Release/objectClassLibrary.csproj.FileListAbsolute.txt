@@ -1,0 +1,5 @@
+C:\Users\Liran\Desktop\ClientApp\objectClassLibrary\bin\Release\objectClassLibrary.dll
+C:\Users\Liran\Desktop\ClientApp\objectClassLibrary\bin\Release\objectClassLibrary.pdb
+C:\Users\Liran\Desktop\ClientApp\objectClassLibrary\obj\Release\objectClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Liran\Desktop\ClientApp\objectClassLibrary\obj\Release\objectClassLibrary.dll
+C:\Users\Liran\Desktop\ClientApp\objectClassLibrary\obj\Release\objectClassLibrary.pdb

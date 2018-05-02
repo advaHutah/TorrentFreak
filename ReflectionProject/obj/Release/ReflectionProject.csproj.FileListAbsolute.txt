@@ -1,0 +1,4 @@
+C:\Users\Liran\Desktop\ClientApp\ReflectionProject\bin\Release\ReflectionProject.dll
+C:\Users\Liran\Desktop\ClientApp\ReflectionProject\bin\Release\ReflectionProject.pdb
+C:\Users\Liran\Desktop\ClientApp\ReflectionProject\obj\Release\ReflectionProject.dll
+C:\Users\Liran\Desktop\ClientApp\ReflectionProject\obj\Release\ReflectionProject.pdb
