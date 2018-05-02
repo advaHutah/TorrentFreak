@@ -1,0 +1,7 @@
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Release\ClientApp.exe.config
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Release\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Release\MainWindow.g.cs
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Release\TorrentWindow.g.cs
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Release\App.g.cs
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Release\ClientApp_MarkupCompile.cache
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Release\ClientApp_MarkupCompile.lref

@@ -1,0 +1,117 @@
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\bin\Debug\MediationServer.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\bin\Debug\MediationServerHost.exe
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\bin\Debug\objectClassLibrary.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\bin\Debug\DatabaseLibrary.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\bin\Debug\MediationServerHost.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\bin\Debug\MediationServer.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\bin\Debug\objectClassLibrary.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\bin\Debug\DatabaseLibrary.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\obj\Debug\MainWindow.g.cs
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\obj\Debug\TorrentWindow.g.cs
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\obj\Debug\App.g.cs
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp_MarkupCompile.cache
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp_MarkupCompile.lref
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\obj\Debug\MainWindow.baml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\obj\Debug\TorrentWindow.baml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.g.resources
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\win10\Documents\Visual Studio 2015\Projects\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\win10\documents\visual studio 2015\Projects\ClientApp\ClientApp\bin\Debug\Database.mdf
+C:\Users\win10\documents\visual studio 2015\Projects\ClientApp\ClientApp\bin\Debug\Database_log.ldf
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Debug\MainWindow.g.cs
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Debug\TorrentWindow.g.cs
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Debug\App.g.cs
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Debug\ClientApp_MarkupCompile.cache
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Debug\ClientApp_MarkupCompile.lref
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\MediationServer.dll
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\objectClassLibrary.dll
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\DatabaseLibrary.dll
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\MediationServer.pdb
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\objectClassLibrary.pdb
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\DatabaseLibrary.pdb
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Debug\MainWindow.baml
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Debug\TorrentWindow.baml
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Debug\ClientApp.g.resources
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Liran\Desktop\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\ReflectionProject.dll
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\ReflectionProject.pdb
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\AttributeProject.dll
+C:\Users\Liran\Desktop\ClientApp\ClientApp\bin\Debug\AttributeProject.pdb
+C:\Users\win10\Desktop\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\win10\Desktop\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\win10\Desktop\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+D:\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+D:\ClientApp\ClientApp\bin\Debug\Database.mdf
+D:\ClientApp\ClientApp\bin\Debug\Database_log.ldf
+D:\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\ClientApp\ClientApp\bin\Debug\AttributeProject.dll
+D:\ClientApp\ClientApp\bin\Debug\MediationServer.dll
+D:\ClientApp\ClientApp\bin\Debug\Newtonsoft.Json.dll
+D:\ClientApp\ClientApp\bin\Debug\objectClassLibrary.dll
+D:\ClientApp\ClientApp\bin\Debug\ReflectionProject.dll
+D:\ClientApp\ClientApp\bin\Debug\DatabaseLibrary.dll
+D:\ClientApp\ClientApp\bin\Debug\AttributeProject.pdb
+D:\ClientApp\ClientApp\bin\Debug\MediationServer.pdb
+D:\ClientApp\ClientApp\bin\Debug\objectClassLibrary.pdb
+D:\ClientApp\ClientApp\bin\Debug\ReflectionProject.pdb
+D:\ClientApp\ClientApp\bin\Debug\Newtonsoft.Json.xml
+D:\ClientApp\ClientApp\bin\Debug\DatabaseLibrary.pdb
+D:\ClientApp\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+D:\ClientApp\ClientApp\obj\Debug\MainWindow.g.cs
+D:\ClientApp\ClientApp\obj\Debug\TorrentWindow.g.cs
+D:\ClientApp\ClientApp\obj\Debug\App.g.cs
+D:\ClientApp\ClientApp\obj\Debug\ClientApp_MarkupCompile.cache
+D:\ClientApp\ClientApp\obj\Debug\ClientApp_MarkupCompile.lref
+D:\ClientApp\ClientApp\obj\Debug\MainWindow.baml
+D:\ClientApp\ClientApp\obj\Debug\TorrentWindow.baml
+D:\ClientApp\ClientApp\obj\Debug\ClientApp.g.resources
+D:\ClientApp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+D:\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+D:\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\AttributeProject.dll
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\MediationServer.dll
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\objectClassLibrary.dll
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\ReflectionProject.dll
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\DatabaseLibrary.dll
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\AttributeProject.pdb
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\MediationServer.pdb
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\objectClassLibrary.pdb
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\ReflectionProject.pdb
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\bin\Debug\DatabaseLibrary.pdb
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\obj\Debug\MainWindow.g.cs
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\obj\Debug\TorrentWindow.g.cs
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\obj\Debug\App.g.cs
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\obj\Debug\ClientApp_MarkupCompile.cache
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\obj\Debug\ClientApp_MarkupCompile.lref
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\obj\Debug\MainWindow.baml
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\obj\Debug\TorrentWindow.baml
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\obj\Debug\ClientApp.g.resources
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\ClientApp\obj\Debug\ClientApp.pdb

@@ -1,0 +1,14 @@
+C:\Users\Liran\Desktop\ClientApp\AttributeProject\obj\Debug\AttributeProject.csprojResolveAssemblyReference.cache
+C:\Users\Liran\Desktop\ClientApp\AttributeProject\bin\Debug\AttributeProject.dll
+C:\Users\Liran\Desktop\ClientApp\AttributeProject\bin\Debug\AttributeProject.pdb
+C:\Users\Liran\Desktop\ClientApp\AttributeProject\obj\Debug\AttributeProject.dll
+C:\Users\Liran\Desktop\ClientApp\AttributeProject\obj\Debug\AttributeProject.pdb
+D:\ClientApp\AttributeProject\bin\Debug\AttributeProject.dll
+D:\ClientApp\AttributeProject\bin\Debug\AttributeProject.pdb
+D:\ClientApp\AttributeProject\obj\Debug\AttributeProject.csprojResolveAssemblyReference.cache
+D:\ClientApp\AttributeProject\obj\Debug\AttributeProject.dll
+D:\ClientApp\AttributeProject\obj\Debug\AttributeProject.pdb
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\AttributeProject\bin\Debug\AttributeProject.dll
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\AttributeProject\bin\Debug\AttributeProject.pdb
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\AttributeProject\obj\Debug\AttributeProject.dll
+C:\Users\afeka\Desktop\TorrentFreakLiranAndAdva\AttributeProject\obj\Debug\AttributeProject.pdb
